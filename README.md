@@ -79,7 +79,7 @@ I'm a **Python Developer** and **Cybersecurity Enthusiast** with a passion for i
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=noiz-x" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noiz-x" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
