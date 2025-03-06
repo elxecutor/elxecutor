@@ -16,7 +16,7 @@ I'm a **Python Developer** and **Cybersecurity Enthusiast** with a passion for i
   - **Cybersecurity:** Pursuing certifications to bolster my understanding of network and system security.
 
 - 👯 **Looking to Collaborate On:**  
-  Projects that merge **cybersecurity** with **Django web development**—if you’re building secure systems or exploring the intersection of these fields, let’s team up!
+  Looking to collaborate on projects in system security and web development.
 
 - 💬 **Ask Me About:**  
   Python, Django, cybersecurity best practices, and how to integrate robust security into software applications.
