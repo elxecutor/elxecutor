@@ -73,15 +73,6 @@ I'm a **Python Developer** and **Cybersecurity Enthusiast** with a passion for i
 ---
 
 ## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noiz-x&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=noiz-x&theme=dark" alt="GitHub Streak" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noiz-x&layout=compact&theme=dark" alt="Top Languages" height="200">
 </div>
