@@ -9,14 +9,11 @@
 
 ## About Me
 
-I'm a **Python Developer** and **Cybersecurity Enthusiast** with a passion for integrating secure coding practices into innovative systems. As an **Electronic & Electrical Engineering student**, I love exploring the intricacies of computers—from programming languages and development frameworks to computer hardware. Currently, I’m diving deep into the world of cybersecurity and its intersection with web development.
-
-- 🔭 **Currently Working On:**  
-  Integrating cybersecurity measures into Python applications and exploring secure Django web development projects.
+I'm a **Python Developer** and **Cybersecurity Enthusiast** with a passion for integrating secure coding practices into innovative systems. As an **Electronic & Electrical Engineering student**, I love exploring the intricacies of computers—from programming languages and development frameworks to computer hardware.
 
 - 🌱 **Currently Learning:**  
   - **React:** Expanding my front-end skills for more dynamic applications.  
-  - **Cybersecurity:** Pursuing certifications like CompTIA Network+, Security+, and A+ to bolster my understanding of network and system security.
+  - **Cybersecurity:** Pursuing certifications to bolster my understanding of network and system security.
 
 - 👯 **Looking to Collaborate On:**  
   Projects that merge **cybersecurity** with **Django web development**—if you’re building secure systems or exploring the intersection of these fields, let’s team up!
