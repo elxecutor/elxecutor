@@ -2,9 +2,7 @@
 <h3 align="center">A Python Developer & Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/noiz-x">
-    <img src="https://github-profile-trophy.vercel.app/?username=noiz-x" alt="GitHub Trophy" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=noiz-x" alt="GitHub Trophy" />
 </p>
 
 ---
