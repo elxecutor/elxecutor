@@ -69,6 +69,6 @@ I'm a **Python Developer** and **Cybersecurity Enthusiast** with a passion for i
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noiz-x&layout=compact&theme=dark" alt="Top Languages" height="500">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noiz-x&layout=compact&theme=dark&&langs_count=8" alt="Top Languages" height="200">
 </div>
 
