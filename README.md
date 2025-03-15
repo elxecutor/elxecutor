@@ -69,6 +69,6 @@ I'm a **Developer** who loves integrating secure coding practices into innovativ
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noiz-x&layout=compact&theme=dark&&langs_count=8" alt="Top Languages" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noiz-x&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8" alt="Top Languages" height="200">
 </div>
 
