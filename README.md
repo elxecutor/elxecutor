@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Elijah</h1>
-<h3 align="center">A Python Developer & Cybersecurity Enthusiast</h3>
+<h3 align="center">A Developer</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=noiz-x" alt="GitHub Trophy" />
@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a **Python Developer** and **Cybersecurity Enthusiast** with a passion for integrating secure coding practices into innovative systems. As an **Electronic & Electrical Engineering student**, I love exploring the intricacies of computers—from programming languages and development frameworks to computer hardware.
+I'm a **Developer** who loves integrating secure coding practices into innovative systems. As an **Electronic & Electrical Engineering student**, I love exploring the intricacies of computers—from programming languages and development frameworks to computer hardware.
 
 - 🌱 **Currently Learning:**  
   - **React:** Expanding my front-end skills for more dynamic applications.  
