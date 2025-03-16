@@ -19,9 +19,6 @@ I'm an **Developer** and an **Electronic & Electrical Engineering student**, I l
 - 👯 **Looking to Collaborate On:**  
   Projects where learning and experimentation are at the core—whether that’s a new IoT prototype, a web app, or exploring cybersecurity techniques.
 
-- 💬 **Ask Me About:**  
-  Python, Django, cybersecurity best practices, and how to integrate robust security into software applications.
-
 - 📫 **How to Reach Me:**  
   Connect with me on [LinkedIn](https://linkedin.com/in/iamgeekspe/) for collaboration opportunities and discussions.
 
