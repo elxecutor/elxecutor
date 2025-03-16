@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Elijah</h1>
-<h3 align="center">A Developer</h3>
+<h3 align="center">Developer | EEE Student</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=noiz-x" alt="GitHub Trophy" />
@@ -9,14 +9,15 @@
 
 ## About Me
 
-I'm a **Developer** who loves integrating secure coding practices into innovative systems. As an **Electronic & Electrical Engineering student**, I love exploring the intricacies of computers—from programming languages and development frameworks to computer hardware.
+I'm an **Developer** and an **Electronic & Electrical Engineering student**, I love exploring the intricacies of computers—from programming languages and development frameworks to computer hardware.
 
 - 🌱 **Currently Learning:**  
-  - **React:** Expanding my front-end skills for more dynamic applications.  
-  - **Cybersecurity:** Pursuing certifications to bolster my understanding of network and system security.
+  - **React:** Building dynamic web applications from scratch.  
+  - **Cybersecurity:** Exploring strategies to secure networks and systems.  
+  - **IoT & Embedded Systems:** Experimenting with microcontrollers and sensor integrations to understand hardware-software interactions.
 
 - 👯 **Looking to Collaborate On:**  
-  Looking to collaborate on projects in system security and web development.
+  Projects where learning and experimentation are at the core—whether that’s a new IoT prototype, a web app, or exploring cybersecurity techniques.
 
 - 💬 **Ask Me About:**  
   Python, Django, cybersecurity best practices, and how to integrate robust security into software applications.
