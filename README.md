@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm an **Developer** and an **Electronic & Electrical Engineering student**, I love exploring the intricacies of computers—from programming languages and development frameworks to computer hardware.
+I'm a **Developer** and an **Electronic & Electrical Engineering student**, I love exploring the intricacies of computers—from programming languages, system security and development frameworks to computer hardware.
 
 - 🌱 **Currently Learning:**  
   - **React:** Building dynamic web applications from scratch.  
