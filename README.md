@@ -73,7 +73,7 @@ I'm a **Developer** and an **Electronic & Electrical Engineering student**, I lo
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/>
   </a>
-  <a href="https://shadcn.com/" target="_blank" rel="noreferrer">
+  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
     <img src="https://ui.shadcn.com/favicon-16x16.png" alt="shadcn" width="40" height="40"/>
   </a>
 </p>
