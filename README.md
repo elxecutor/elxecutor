@@ -37,6 +37,15 @@ I'm a **Developer** and an **Electronic & Electrical Engineering student**, I lo
 ## Languages and Tools
 
 <p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://wokwi.com/" target="_blank" rel="noreferrer">
+    <img src="https://docs.wokwi.com/img/favicon-white.png" alt="Wokwi" width="40" height="40"/>
+  </a>
+  <a href="https://platformio.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/platformio.svg" alt="PlatformIO" width="40" height="40"/>
+  </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
@@ -48,9 +57,6 @@ I'm a **Developer** and an **Electronic & Electrical Engineering student**, I lo
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -64,17 +70,14 @@ I'm a **Developer** and an **Electronic & Electrical Engineering student**, I lo
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
-  <a href="https://wokwi.com/" target="_blank" rel="noreferrer">
-    <img src="https://docs.wokwi.com/img/favicon-white.png" alt="Wokwi" width="40" height="40"/>
-  </a>
-  <a href="https://platformio.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/platformio.svg" alt="PlatformIO" width="40" height="40"/>
-  </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/>
   </a>
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
     <img src="https://ui.shadcn.com/favicon-16x16.png" alt="shadcn" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
 </p>
 
