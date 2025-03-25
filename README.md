@@ -67,6 +67,9 @@ I'm a **Developer** and an **Electronic & Electrical Engineering student**, I lo
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
@@ -87,4 +90,3 @@ I'm a **Developer** and an **Electronic & Electrical Engineering student**, I lo
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noiz-x&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8" alt="Top Languages" height="200">
 </div>
-
