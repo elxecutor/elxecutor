@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Elijah</h1>
 <h3 align="center">Developer | EEE Student</h3>
+[![wakatime](https://wakatime.com/badge/user/018b2338-3b72-41c2-ab68-cfa8bfb14fc9.svg?style=plastic)](https://wakatime.com/@018b2338-3b72-41c2-ab68-cfa8bfb14fc9)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=noiz-x" alt="GitHub Trophy" />
