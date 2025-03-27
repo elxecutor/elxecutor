@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Elijah</h1>
 <h3 align="center">Developer | EEE Student</h3>
-[![wakatime](https://wakatime.com/badge/user/018b2338-3b72-41c2-ab68-cfa8bfb14fc9.svg?style=plastic)](https://wakatime.com/@018b2338-3b72-41c2-ab68-cfa8bfb14fc9)
-
 <p align="center">
+  <a href="https://wakatime.com/@018b2338-3b72-41c2-ab68-cfa8bfb14fc9"><img src="https://wakatime.com/badge/user/018b2338-3b72-41c2-ab68-cfa8bfb14fc9.svg" alt="Total time coded since Oct 12 2023" /></a>
   <img src="https://github-profile-trophy.vercel.app/?username=noiz-x" alt="GitHub Trophy" />
 </p>
 
