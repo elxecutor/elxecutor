@@ -39,8 +39,8 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
     .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.        Home: /dev/null (404 home not found)
       x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         
         =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=            GitHub: noiz-x (green squares = productivity theater)
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`              LinkedIn: in/iamgeekspe ("open to work" but hiding from recruiters)
-              "Lf8@@@@v              q@@@#Qa?:                 
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`              LinkedIn: in/iamgeekspe
+              "Lf8@@@@v              q@@@#Qa?:                            ("open to work" but hiding from recruiters)
                   -!v|`              _?v!`                     
 
                                                                 DEVICE SPECS:
