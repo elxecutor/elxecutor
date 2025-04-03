@@ -1,5 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Elijah</h1>
-<h3 align="center">Developer | EEE Student</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=2000&pause=1000&color=CDAB1E&center=true&vCenter=true&random=false&width=435&height=50&lines=Hi+there!+👋;I'm+Elijah!;Developer+|+EEE+Student" />  
+</h1>
+
 <p align="center">
   <a href="https://wakatime.com/@018b2338-3b72-41c2-ab68-cfa8bfb14fc9"><img src="https://wakatime.com/badge/user/018b2338-3b72-41c2-ab68-cfa8bfb14fc9.svg" alt="Total time coded since Oct 12 2023" /></a>
   <img src="https://github-profile-trophy.vercel.app/?username=noiz-x" alt="GitHub Trophy" />
@@ -8,20 +10,40 @@
 ---
 
 ## About Me
+```console
+atsuomi@Retr0:~$ neofetch
 
-I'm a **Developer** and an **Electronic & Electrical Engineering student**, I love exploring the intricacies of computers—from programming languages, system security and development frameworks to computer hardware.
+                   .~vVeZNgQBBBQQg9Ze1v~.                   
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                  atsuomi@Retr0
+           -Lq#@@@@@@@@@@@BINARY@@@@@@@@@@@@@#qr-               -----------------------
+        .V0@@@@@@@@@@@@@@@@BYTES@@@@@@@@@@@@@@@@@0?.            OS: Debian 13 Trixie/Sid "Trixie the Unstable"
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`          Uptime: Since last caffeine dose (2h 7m 13s)
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`        Profession: Student
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.       Knowledge: 
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"        Linux        Wokwi
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0        PlatformIO   Arduino
+a@@@@@@@@@@2                                    v@@@@@@@@@@;       Python       Django
+#@@@@@@@@@@_                                     @@@@@@@@@@y      󰀶 React       󰀶 HTML/CSS
+@@@@@@@@@@@.                                     @@@@@@@@@@%       JS/TS       󰀶 Postman
+#@@@@@@@@@@r                                    :@@@@@@@@@@s      󰕈 shadcn/ui    PostgreSQL
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#     Editors: 
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~     VS Code (20 tabs, 5 uncommitted, 3 live servers), 
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n      Sublime Text (abandoned in another universe)
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.        Home: /dev/null (404 home not found)
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=            GitHub: noiz-x (green squares = productivity theater)
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`              LinkedIn: in/iamgeekspe ("open to work" but hiding from recruiters)
+              "Lf8@@@@v              q@@@#Qa?:                 
+                  -!v|`              _?v!`                     
 
-- 🌱 **Currently Learning:**  
-  - **React:** Building dynamic web applications from scratch.  
-  - **Cybersecurity:** Exploring strategies to secure networks and systems.  
-  - **IoT & Embedded Systems:** Experimenting with microcontrollers and sensor integrations to understand hardware-software interactions.
-
-- 👯 **Looking to Collaborate On:**  
-  Projects where learning and experimentation are at the core—whether that’s a new IoT prototype, a web app, or exploring cybersecurity techniques.
-
-- 📫 **How to Reach Me:**  
-  Connect with me on [LinkedIn](https://linkedin.com/in/iamgeekspe/) for collaboration opportunities and discussions.
-
+                                                                DEVICE SPECS:
+                                                                CPU: Overclocked Cerebrum (8 cores)
+                                                                RAM: 8GB DDR4
+                                                                STORAGE: 256GB NVMe (160GB node_modules)
+                                                                BOOT DRIVE: /dev/sda1 (98% full with TODO lists)
+```
 ---
 
 ## Connect With Me
@@ -37,51 +59,7 @@ I'm a **Developer** and an **Electronic & Electrical Engineering student**, I lo
 ## Languages and Tools
 
 <p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://wokwi.com/" target="_blank" rel="noreferrer">
-    <img src="https://docs.wokwi.com/img/favicon-white.png" alt="Wokwi" width="40" height="40"/>
-  </a>
-  <a href="https://platformio.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/platformio.svg" alt="PlatformIO" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
-    <img src="https://ui.shadcn.com/favicon-16x16.png" alt="shadcn" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux,arduino,python,django,react,html,css,js,ts,tailwind,postgresql,postman" alt="tech stack" width="100%"/>
 </p>
 
 ---
