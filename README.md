@@ -19,35 +19,35 @@
 atsuomi@Retr0:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                  atsuomi@Retr0
-           -Lq#@@@@@@@@@@@@Retr0@@@@@@@@@@@@@#qr-               -----------------------
-        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.            OS: Debian 13 Trixie/Sid "Trixie the Unstable"
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`          Uptime: Since last caffeine dose (2h 7m 13s)
-    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`        Profession: Student
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.       Knowledge: 
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"        Linux        Wokwi
-_g@@@@@@@@@@2-                                `M@@@@@@@@@@0        PlatformIO   Arduino
-a@@@@@@@@@@2                                    v@@@@@@@@@@;       Python       Django
-#@@@@@@@@@@_                                     @@@@@@@@@@y      󰀶 React       󰀶 HTML/CSS
-@@@@@@@@@@@.                                     @@@@@@@@@@%       JS/TS       󰀶 Postman
-#@@@@@@@@@@r                                    :@@@@@@@@@@s      󰕈 shadcn/ui    PostgreSQL
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                atsuomi@Retr0
+           -Lq#@@@@@@@@@@@@Retr0@@@@@@@@@@@@@#qr-             -----------------------
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.          OS: Debian 13 Trixie/Sid "Trixie the Unstable"
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`        Uptime: Since last caffeine dose (2h 7m 13s)
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`      Profession: Student
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.     Knowledge: 
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"      Linux        Wokwi
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0      PlatformIO   Arduino
+a@@@@@@@@@@2                                    v@@@@@@@@@@;     Python       Django
+#@@@@@@@@@@_                                     @@@@@@@@@@y    󰀶 React       󰀶 HTML/CSS
+@@@@@@@@@@@.                                     @@@@@@@@@@%     JS/TS       󰀶 Postman
+#@@@@@@@@@@r                                    :@@@@@@@@@@s    󰕈 shadcn/ui    PostgreSQL
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   
-~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#     Editors: 
- ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~     VS Code (20 tabs, 5 uncommitted, 3 live servers), 
-  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n      Sublime Text (abandoned in another universe)
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#   Editors: 
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~   VS Code (20 tabs, 5 uncommitted, 3 live servers), 
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n    Sublime Text (abandoned in another universe)
    2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
-    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.        Home: /dev/null (404 home not found)
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.      Home: /dev/null (404 home not found)
       x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         
-        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=            GitHub: noiz-x (green squares = productivity theater)
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`              LinkedIn: in/iamgeekspe
-              "Lf8@@@@v              q@@@#Qa?:                            ("open to work" but hiding from recruiters)
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=          GitHub: noiz-x (green squares = productivity theater)
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`            LinkedIn: in/iamgeekspe
+              "Lf8@@@@v              q@@@#Qa?:                          ("open to work" but hiding from recruiters)
                   -!v|`              _?v!`                     
 
-                                                                DEVICE SPECS:
-                                                                CPU: Overclocked Cerebrum (8 cores)
-                                                                RAM: 8GB DDR4
-                                                                STORAGE: 256GB NVMe (160GB node_modules)
-                                                                BOOT DRIVE: /dev/sda1 (98% full with TODO lists)
+                                                              DEVICE SPECS:
+                                                              CPU: Overclocked Cerebrum (8 cores)
+                                                              RAM: 8GB DDR4
+                                                              STORAGE: 256GB NVMe (160GB node_modules)
+                                                              BOOT DRIVE: /dev/sda1 (98% full with TODO lists)
 ```
 ---
 
