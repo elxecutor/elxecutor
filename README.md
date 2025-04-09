@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=2000&pause=1000&color=CDAB1E&center=true&vCenter=true&random=false&width=435&height=50&lines=Hi+there!+👋;I'm+Elijah!;Developer+|+EEE+Student" />  
 </h1>
 
-
 <p align="center">
   <a href="https://wakatime.com/@018b2338-3b72-41c2-ab68-cfa8bfb14fc9">
     <img src="https://wakatime.com/badge/user/018b2338-3b72-41c2-ab68-cfa8bfb14fc9.svg" alt="Total time coded since Oct 12 2023" />
