@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=2000&pause=1000&color=CDAB1E&center=true&vCenter=true&random=false&width=435&height=50&lines=Hi+there!+👋;I'm+Elijah!;Developer+|+EEE+Student" />  
+  Developer | EEE Student
 </h1>
 
 <p align="center">
@@ -66,10 +66,3 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,arduino,python,django,react,html,css,js,ts,tailwind,postgresql,postman" alt="tech stack" width="100%"/>
 </p>
-
----
-
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noiz-x&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8" alt="Top Languages" height="200">
-</div>
