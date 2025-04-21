@@ -64,5 +64,5 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 ## Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,arduino,python,django,react,html,css,js,ts,tailwind,postgresql,postman" alt="tech stack" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=linux,cpp,arduino,python,django,react,html,css,js,ts,tailwind,postgresql,postman" alt="tech stack" width="100%"/>
 </p>
