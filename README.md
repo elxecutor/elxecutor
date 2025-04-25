@@ -53,16 +53,14 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 
 ## Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/iamgeekspe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/iamgeekspe" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
+</a>
 
 ---
 
 ## Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,cpp,arduino,python,django,react,html,css,js,ts,tailwind,postgresql,postman" alt="tech stack" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=linux,debian,bash,cpp,python,js,ts,md,django,react,tailwind,vite,arduino,postgresql,postman,html,css,git" alt="tech stack" width="100%"/>
 </p>
