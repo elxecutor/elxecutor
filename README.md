@@ -13,7 +13,6 @@
 </p>
 
 ---
-
 ## About Me
 ```console
 atsuomi@Retr0:~$ neofetch
@@ -50,7 +49,6 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
                                                               BOOT DRIVE: /dev/sda1 (98% full with TODO lists)
 ```
 ---
-
 ## Connect With Me
 
 <a href="https://linkedin.com/in/iamgeekspe" target="_blank">
@@ -58,7 +56,6 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 </a>
 
 ---
-
 ## Languages and Tools
 
 <p align="left">
