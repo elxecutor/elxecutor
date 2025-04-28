@@ -52,7 +52,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 ## Connect With Me
 
 <a href="https://linkedin.com/in/iamgeekspe" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="100%" />
 </a>
 
 ---
