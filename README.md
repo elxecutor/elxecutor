@@ -14,6 +14,7 @@
 </p>
 ---
 ## About Me
+
 ```console
 atsuomi@Retr0:~$ neofetch
 
