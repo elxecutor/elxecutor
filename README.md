@@ -12,8 +12,8 @@
   </a>
   <img src="https://github-profile-trophy.vercel.app/?username=noiz-x" alt="GitHub Trophy" />
 </p>
----
 
+---
 ## About Me
 
 ```console
