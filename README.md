@@ -50,6 +50,11 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
                                                               STORAGE: 256GB NVMe (160GB node_modules)
                                                               BOOT DRIVE: /dev/sda1 (98% full with TODO lists)
 ```
+
+<a href="https://github.com/noiz-x">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noiz-x&theme=react-dark&hide_border=true"/>
+</a>
+  
 ---
 ## Connect With Me
 
