@@ -19,10 +19,10 @@
 ## About Me
 
 ```console
-atsuomi@Retr0:~$ neofetch
+atsuomi@redactd:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                atsuomi@Retr0
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                atsuomi@redactd
            -Lq#@@@@@@@@@@@@Retr0@@@@@@@@@@@@@#qr-             -----------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.          OS: Debian 13 Trixie/Sid "Trixie the Unstable"
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`        Uptime: Since last caffeine dose (2h 7m 13s)
