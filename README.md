@@ -9,6 +9,7 @@
   <a href="https://github.com/noiz-x">
     <img src="https://komarev.com/ghpvc/?username=noiz-x" alt="views count" />
   </a>
+  
   <a href="https://github.com/noiz-x">
     <img src="https://github-profile-trophy.vercel.app/?username=noiz-x" alt="GitHub Trophy" />
   </a>
