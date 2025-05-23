@@ -62,7 +62,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 ## Connect With Me
 
 <a href="https://linkedin.com/in/iamgeekspe" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
 
 ---
@@ -72,4 +72,3 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,debian,bash,cpp,python,js,ts,md,django,react,tailwind,vite,arduino,postgresql,postman,html,css,git" alt="tech stack" width="100%"/>
 </p>
-
