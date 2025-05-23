@@ -72,3 +72,4 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,debian,bash,cpp,python,js,ts,md,django,react,tailwind,vite,arduino,postgresql,postman,html,css,git" alt="tech stack" width="100%"/>
 </p>
+
