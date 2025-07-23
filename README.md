@@ -63,7 +63,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 ## Connect With Me
 
 <a href="https://x.com/elxecutor" target="_blank">
-  <img src="ttps://skillicons.dev/icons?i=twitter"/>
+  <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
 ---
