@@ -3,15 +3,15 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/noiz-x">
+  <a href="https://github.com/elxecutor">
     <img src="https://wakatime.com/badge/user/018b2338-3b72-41c2-ab68-cfa8bfb14fc9.svg" alt="Total time coded since Oct 12 2023" />
   </a>
-  <a href="https://github.com/noiz-x">
-    <img src="https://komarev.com/ghpvc/?username=noiz-x" alt="views count" />
+  <a href="https://github.com/elxecutor">
+    <img src="https://komarev.com/ghpvc/?username=elxecutor" alt="views count" />
   </a>
   
-  <a href="https://github.com/noiz-x">
-    <img src="https://github-profile-trophy.vercel.app/?username=noiz-x" alt="GitHub Trophy" />
+  <a href="https://github.com/elxecutor">
+    <img src="https://github-profile-trophy.vercel.app/?username=elxecutor" alt="GitHub Trophy" />
   </a>
 </p>
 
@@ -20,10 +20,10 @@
 ## About Me
 
 ```console
-atsuomi@redactd:~$ neofetch
+atsuomi@elxecutor:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                atsuomi@redactd
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                atsuomi@elxecutor
            -Lq#@@@@@@@@@@@@Retr0@@@@@@@@@@@@@#qr-             -----------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.          OS: Debian 13 Trixie/Sid "Trixie the Unstable"
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`        Uptime: Since last caffeine dose (2h 7m 13s)
@@ -54,16 +54,16 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
                                                               BOOT DRIVE: /dev/sda1 (98% full with TODO lists)
 ```
 
-<a href="https://github.com/noiz-x">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noiz-x&theme=react-dark&hide_border=true"/>
+<a href="https://github.com/elxecutor">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elxecutor&theme=react-dark&hide_border=true"/>
 </a>
   
 ---
 
 ## Connect With Me
 
-<a href="https://linkedin.com/in/iamgeekspe" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+<a href="https://x.com/elxecutor" target="_blank">
+  <img src="ttps://skillicons.dev/icons?i=twitter"/>
 </a>
 
 ---
