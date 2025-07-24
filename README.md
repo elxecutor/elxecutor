@@ -1,76 +1,52 @@
-<h1 align="center">
-  Developer | EEE Student
-</h1>
+<h1 align="center">Hi 👋, I'm Elijah</h1>
+<h3 align="center">Developer · EEE Student</h3>
 
 <p align="center">
-  <a href="https://github.com/elxecutor">
-    <img src="https://wakatime.com/badge/user/018b2338-3b72-41c2-ab68-cfa8bfb14fc9.svg" alt="Total time coded since Oct 12 2023" />
+  <a href="https://twitter.com/elxecutor" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/elxecutor?logo=twitter&style=for-the-badge" alt="Follow on Twitter" />
   </a>
-  <a href="https://github.com/elxecutor">
-    <img src="https://komarev.com/ghpvc/?username=elxecutor" alt="views count" />
-  </a>
-  
-  <a href="https://github.com/elxecutor">
-    <img src="https://github-profile-trophy.vercel.app/?username=elxecutor" alt="GitHub Trophy" />
-  </a>
+</p>
+
+<hr/>
+
+### 🧠 About Me
+
+- 🎓 EEE undergrad with a deep interest in code, systems, and design  
+- ⚙️ Building tools that automate, scale, or just make sense  
+- 🚀 Exploring embedded systems, full-stack apps, and AI workflows
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <!-- Core -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40"/>
+
+  <!-- Tools -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
+
+  <!-- Data & Embedded -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40"/>
+
+  <!-- Visual & Design -->
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
 </p>
 
 ---
 
-## About Me
-
-```console
-atsuomi@elxecutor:~$ neofetch
-
-                   .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                atsuomi@elxecutor
-           -Lq#@@@@@@@@@@@@Retr0@@@@@@@@@@@@@#qr-             -----------------------
-        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.          OS: Debian 13 Trixie/Sid "Trixie the Unstable"
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`        Uptime: Since last caffeine dose (2h 7m 13s)
-    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`      Profession: Student
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.     Knowledge: 
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"      Linux        Wokwi
-_g@@@@@@@@@@2-                                `M@@@@@@@@@@0      PlatformIO   Arduino
-a@@@@@@@@@@2                                    v@@@@@@@@@@;     Python       Django
-#@@@@@@@@@@_                                     @@@@@@@@@@y    󰀶 React       󰀶 HTML/CSS
-@@@@@@@@@@@.                                     @@@@@@@@@@%     JS/TS       󰀶 Postman
-#@@@@@@@@@@r                                    :@@@@@@@@@@s    󰕈 shadcn/ui    PostgreSQL
-W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   
-~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#   Editors: 
- ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~   VS Code (20 tabs, 5 uncommitted, 3 live servers), 
-  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n    Sublime Text (abandoned in another universe)
-   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
-    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.      Home: /dev/null (404 home not found)
-      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         
-        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=          GitHub: noiz-x (green squares = productivity theater)
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`            LinkedIn: in/iamgeekspe
-              "Lf8@@@@v              q@@@#Qa?:                          ("open to work" but hiding from recruiters)
-                  -!v|`              _?v!`                     
-
-                                                              DEVICE SPECS:
-                                                              CPU: Overclocked Cerebrum (8 cores)
-                                                              RAM: 8GB DDR4
-                                                              STORAGE: 256GB NVMe (160GB node_modules)
-                                                              BOOT DRIVE: /dev/sda1 (98% full with TODO lists)
-```
-
-<a href="https://github.com/elxecutor">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elxecutor&theme=react-dark&hide_border=true"/>
-</a>
-  
----
-
-## Connect With Me
-
-<a href="https://x.com/elxecutor" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
----
-
-## Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,debian,bash,cpp,python,js,ts,md,django,react,tailwind,vite,arduino,postgresql,postman,html,css,git" alt="tech stack" width="100%"/>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=elxecutor&theme=flat&margin-w=10" alt="GitHub Trophies" />
+  </a>
 </p>
-
