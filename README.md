@@ -9,7 +9,7 @@
 
 <hr/>
 
-### 🧠 About Me
+### About Me
 
 - 🎓 EEE undergrad with a deep interest in code, systems, and design  
 - ⚙️ Building tools that automate, scale, or just make sense  
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <p align="center">
   <!-- Core -->
@@ -41,12 +41,4 @@
   <!-- Visual & Design -->
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=elxecutor&theme=flat&margin-w=10" alt="GitHub Trophies" />
-  </a>
 </p>
